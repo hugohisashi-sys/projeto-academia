@@ -41,6 +41,6 @@ O código segue programação procedural, sem classes personalizadas, e demonstr
 
 ## Integrantes
 
-- Matrícula – Nome completo
-- Matrícula – Nome completo
-- Matrícula – Nome completo
+- 261120362 - Hugo Hisashi    
+- 261120244 – Arthur Souza
+- 261120245 – Samuel Knupp
